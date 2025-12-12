@@ -1,0 +1,3199 @@
+[
+    {
+        "ISIN": "INF209K01S38",
+        "Folio": "1040059041",
+        "SchemeName": "Aditya Birla Sun Life Corporate Bond Fund - Growth-Dir",
+        "Transactions": [
+            {
+                "date": "2021-01-04",
+                "type": "buy",
+                "quantity": 57.748,
+                "price": 86.5781,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-04",
+                "type": "buy",
+                "quantity": 57.748,
+                "price": 86.5781,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-04",
+                "type": "buy",
+                "quantity": 115.497,
+                "price": 86.5781,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-05",
+                "type": "buy",
+                "quantity": 57.703,
+                "price": 86.6461,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-06",
+                "type": "buy",
+                "quantity": 234.456,
+                "price": 86.6295,
+                "tax": 1.02,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-02-01",
+                "type": "sell",
+                "quantity": -58.053,
+                "price": 86.1281,
+                "tax": 0,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-03-01",
+                "type": "sell",
+                "quantity": -465.099,
+                "price": 85.9952,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF209K01VA3",
+        "Folio": "1040059041",
+        "SchemeName": "Aditya Birla Sun Life Liquid Fund - Growth-Dir",
+        "Transactions": [
+            {
+                "date": "2020-07-23",
+                "type": "buy",
+                "quantity": 7.709,
+                "price": 324.2777,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-08-03",
+                "type": "buy",
+                "quantity": 13.555,
+                "price": 324.5931,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-09-01",
+                "type": "buy",
+                "quantity": 12.288,
+                "price": 325.4924,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-10-05",
+                "type": "buy",
+                "quantity": 13.477,
+                "price": 326.4754,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-11-03",
+                "type": "buy",
+                "quantity": 13.441,
+                "price": 327.3369,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-12-03",
+                "type": "buy",
+                "quantity": 13.408,
+                "price": 328.1373,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-04",
+                "type": "sell",
+                "quantity": -12.156,
+                "price": 329.0484,
+                "tax": 0,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-06",
+                "type": "sell",
+                "quantity": -61.722,
+                "price": 329.0853,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF209K01UR9",
+        "Folio": "1040059041",
+        "SchemeName": "Aditya Birla Sun Life Savings Fund - Growth-Dir",
+        "Transactions": [
+            {
+                "date": "2020-07-22",
+                "type": "buy",
+                "quantity": 6.051,
+                "price": 413.1632,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-08-03",
+                "type": "buy",
+                "quantity": 10.63,
+                "price": 413.8874,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-09-01",
+                "type": "buy",
+                "quantity": 10.58,
+                "price": 415.8517,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-10-01",
+                "type": "buy",
+                "quantity": 10.539,
+                "price": 417.4797,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-11-02",
+                "type": "buy",
+                "quantity": 10.479,
+                "price": 419.8626,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-12-01",
+                "type": "buy",
+                "quantity": 10.43,
+                "price": 421.8383,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-01",
+                "type": "buy",
+                "quantity": 10.397,
+                "price": 423.176,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-04",
+                "type": "buy",
+                "quantity": 23.621,
+                "price": 423.3369,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-04",
+                "type": "sell",
+                "quantity": -23.622,
+                "price": 423.3369,
+                "tax": 0,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-01-05",
+                "type": "sell",
+                "quantity": -11.809,
+                "price": 423.3968,
+                "tax": 0,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-09-15",
+                "type": "sell",
+                "quantity": -57.296,
+                "price": 435.8658,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF846K01CX4",
+        "Folio": "91089113735",
+        "SchemeName": "Axis Liquid Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2020-07-13",
+                "type": "buy",
+                "quantity": 0.224,
+                "price": 2232.8305,
+                "tax": 0.02,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-07-21",
+                "type": "sell",
+                "quantity": -0.224,
+                "price": 2234.5228,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF846K01DP8",
+        "Folio": "91089795264",
+        "SchemeName": "Axis Large Cap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2020-07-22",
+                "type": "buy",
+                "quantity": 151.416,
+                "price": 33.02,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-08-03",
+                "type": "buy",
+                "quantity": 36.774,
+                "price": 32.63,
+                "tax": 0.06,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-09-01",
+                "type": "buy",
+                "quantity": 58.751,
+                "price": 34.04,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-10-05",
+                "type": "buy",
+                "quantity": 34.943,
+                "price": 34.34,
+                "tax": 0.06,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-11-02",
+                "type": "buy",
+                "quantity": 42.684,
+                "price": 35.14,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-12-02",
+                "type": "buy",
+                "quantity": 38.283,
+                "price": 39.18,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-12-30",
+                "type": "buy",
+                "quantity": 104.558,
+                "price": 42.08,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2020-12-30",
+                "type": "buy",
+                "quantity": 95.052,
+                "price": 42.08,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-02-19",
+                "type": "buy",
+                "quantity": 233.089,
+                "price": 42.9,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-02-26",
+                "type": "buy",
+                "quantity": 118.759,
+                "price": 42.1,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-04-01",
+                "type": "buy",
+                "quantity": 117.697,
+                "price": 42.48,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-04-01",
+                "type": "buy",
+                "quantity": 117.2,
+                "price": 42.66,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-04-30",
+                "type": "buy",
+                "quantity": 116.708,
+                "price": 42.84,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-06-01",
+                "type": "buy",
+                "quantity": 110.345,
+                "price": 45.31,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-07-01",
+                "type": "buy",
+                "quantity": 108.243,
+                "price": 46.19,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-08-02",
+                "type": "buy",
+                "quantity": 41.752,
+                "price": 47.9,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-09-01",
+                "type": "buy",
+                "quantity": 39.137,
+                "price": 51.1,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-10-01",
+                "type": "buy",
+                "quantity": 38.334,
+                "price": 52.17,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-11-01",
+                "type": "buy",
+                "quantity": 37.791,
+                "price": 52.92,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-01",
+                "type": "buy",
+                "quantity": 38.78,
+                "price": 51.57,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-20",
+                "type": "buy",
+                "quantity": 89.335,
+                "price": 50.37,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-03",
+                "type": "buy",
+                "quantity": 37.934,
+                "price": 52.72,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-21",
+                "type": "buy",
+                "quantity": 145.765,
+                "price": 51.45,
+                "tax": 0.37,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-25",
+                "type": "buy",
+                "quantity": 100.095,
+                "price": 49.95,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-27",
+                "type": "buy",
+                "quantity": 101.497,
+                "price": 49.26,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-02-01",
+                "type": "buy",
+                "quantity": 39.368,
+                "price": 50.8,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-03-02",
+                "type": "buy",
+                "quantity": 41.543,
+                "price": 48.14,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-04-01",
+                "type": "buy",
+                "quantity": 39.007,
+                "price": 51.27,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-05-02",
+                "type": "buy",
+                "quantity": 41.76,
+                "price": 47.89,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-01",
+                "type": "sell",
+                "quantity": -268.78,
+                "price": 66.97,
+                "tax": 0.18,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-01",
+                "type": "sell",
+                "quantity": -262.891,
+                "price": 68.47,
+                "tax": 0.18,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-02",
+                "type": "sell",
+                "quantity": -256.889,
+                "price": 70.07,
+                "tax": 0.18,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-01",
+                "type": "sell",
+                "quantity": -250.629,
+                "price": 71.82,
+                "tax": 0.18,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "sell",
+                "quantity": -242.06,
+                "price": 66.1,
+                "tax": 0.16,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-02",
+                "type": "sell",
+                "quantity": -236.269,
+                "price": 67.72,
+                "tax": 0.16,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-01",
+                "type": "sell",
+                "quantity": -238.701,
+                "price": 67.03,
+                "tax": 0.16,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-03",
+                "type": "sell",
+                "quantity": -243.645,
+                "price": 65.67,
+                "tax": 0.16,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-03",
+                "type": "sell",
+                "quantity": -257.984,
+                "price": 62.02,
+                "tax": 0.16,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-17",
+                "type": "sell",
+                "quantity": -58.752,
+                "price": 62.89,
+                "tax": 0.04,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF846K01K35",
+        "Folio": "91089795264",
+        "SchemeName": "Axis Small Cap Fund Dir Growth",
+        "Transactions": [
+            {
+                "date": "2021-01-04",
+                "type": "buy",
+                "quantity": 114.594,
+                "price": 43.63,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-02-19",
+                "type": "buy",
+                "quantity": 109.62,
+                "price": 45.61,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-02-26",
+                "type": "buy",
+                "quantity": 108.737,
+                "price": 45.98,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-04-01",
+                "type": "buy",
+                "quantity": 103.557,
+                "price": 48.28,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-04-30",
+                "type": "buy",
+                "quantity": 99.103,
+                "price": 50.45,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-06-01",
+                "type": "buy",
+                "quantity": 91.924,
+                "price": 54.39,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-07-01",
+                "type": "buy",
+                "quantity": 86.292,
+                "price": 57.94,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-08-02",
+                "type": "buy",
+                "quantity": 32.535,
+                "price": 61.47,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-09-01",
+                "type": "buy",
+                "quantity": 32.009,
+                "price": 62.48,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-10-01",
+                "type": "buy",
+                "quantity": 30.357,
+                "price": 65.88,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-11-01",
+                "type": "buy",
+                "quantity": 30.183,
+                "price": 66.26,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-01",
+                "type": "buy",
+                "quantity": 29.952,
+                "price": 66.77,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-20",
+                "type": "buy",
+                "quantity": 67.85,
+                "price": 66.32,
+                "tax": 0.22,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-03",
+                "type": "buy",
+                "quantity": 28.681,
+                "price": 69.73,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-21",
+                "type": "buy",
+                "quantity": 107.769,
+                "price": 69.59,
+                "tax": 0.37,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-25",
+                "type": "buy",
+                "quantity": 73.786,
+                "price": 67.76,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-27",
+                "type": "buy",
+                "quantity": 74.567,
+                "price": 67.05,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-02-01",
+                "type": "buy",
+                "quantity": 28.95,
+                "price": 69.08,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-03-02",
+                "type": "buy",
+                "quantity": 30.739,
+                "price": 65.06,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-04-01",
+                "type": "buy",
+                "quantity": 28.859,
+                "price": 69.3,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-05-02",
+                "type": "buy",
+                "quantity": 29.712,
+                "price": 67.31,
+                "tax": 0.1,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF194KB1HA2",
+        "Folio": "5414981",
+        "SchemeName": "Bandhan Nifty Alpha 50 Index Fund-Dir-Growth",
+        "Transactions": [
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 205.754,
+                "price": 15.0658,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-14",
+                "type": "buy",
+                "quantity": 214.269,
+                "price": 14.0004,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-18",
+                "type": "buy",
+                "quantity": 71.596,
+                "price": 13.9666,
+                "tax": 0.05,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-04",
+                "type": "sell",
+                "quantity": -491.619,
+                "price": 15.3187,
+                "tax": 0.08,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF843K01AO4",
+        "Folio": "91022385935",
+        "SchemeName": "Edelweiss Mid Cap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-06-07",
+                "type": "buy",
+                "quantity": 20.094,
+                "price": 99.525,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-03",
+                "type": "buy",
+                "quantity": 22.984,
+                "price": 108.768,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-08",
+                "type": "buy",
+                "quantity": 18.279,
+                "price": 109.412,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 23.732,
+                "price": 105.337,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 18.607,
+                "price": 107.479,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "buy",
+                "quantity": 21.734,
+                "price": 115.024,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "buy",
+                "quantity": 17.65,
+                "price": 113.311,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-03",
+                "type": "buy",
+                "quantity": 21.803,
+                "price": 114.657,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-07",
+                "type": "buy",
+                "quantity": 17.758,
+                "price": 112.618,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "buy",
+                "quantity": 48.947,
+                "price": 112.362,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-13",
+                "type": "buy",
+                "quantity": 54.789,
+                "price": 109.505,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-04",
+                "type": "buy",
+                "quantity": 46.783,
+                "price": 117.558,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-06",
+                "type": "buy",
+                "quantity": 47.641,
+                "price": 115.441,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-04",
+                "type": "buy",
+                "quantity": 51.072,
+                "price": 107.685,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-04",
+                "type": "buy",
+                "quantity": 56.763,
+                "price": 96.89,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 29.547,
+                "price": 101.528,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 24.693,
+                "price": 121.486,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 24.696,
+                "price": 121.471,
+                "tax": 0.15,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF754K01QD2",
+        "Folio": "91022385935",
+        "SchemeName": "Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 161.426,
+                "price": 19.2029,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-13",
+                "type": "buy",
+                "quantity": 165.2,
+                "price": 18.1589,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-13",
+                "type": "buy",
+                "quantity": 55.081,
+                "price": 18.1542,
+                "tax": 0.05,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-11",
+                "type": "buy",
+                "quantity": 298.576,
+                "price": 20.0944,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-19",
+                "type": "buy",
+                "quantity": 307.747,
+                "price": 19.8205,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-13",
+                "type": "buy",
+                "quantity": 350.165,
+                "price": 17.1339,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-12",
+                "type": "buy",
+                "quantity": 142.936,
+                "price": 16.0903,
+                "tax": 0.11,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-12",
+                "type": "buy",
+                "quantity": 435.023,
+                "price": 16.0903,
+                "tax": 0.35,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 126.134,
+                "price": 15.8553,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 203.209,
+                "price": 17.2228,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 191.218,
+                "price": 18.3028,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 187.164,
+                "price": 18.6993,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-11",
+                "type": "buy",
+                "quantity": 164.256,
+                "price": 18.2633,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 193.816,
+                "price": 18.0575,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 166.152,
+                "price": 18.0548,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-04",
+                "type": "buy",
+                "quantity": 196.854,
+                "price": 17.7788,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-08",
+                "type": "buy",
+                "quantity": 168.402,
+                "price": 17.8136,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 194.659,
+                "price": 17.9793,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 157.806,
+                "price": 18.3761,
+                "tax": 0.14,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 157.757,
+                "price": 18.3818,
+                "tax": 0.14,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF754K01TN5",
+        "Folio": "91022385935",
+        "SchemeName": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-12-11",
+                "type": "buy",
+                "quantity": 565.3,
+                "price": 10.6133,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-19",
+                "type": "buy",
+                "quantity": 593.177,
+                "price": 10.2831,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-13",
+                "type": "buy",
+                "quantity": 361.892,
+                "price": 9.1183,
+                "tax": 0.16,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 125.373,
+                "price": 7.9758,
+                "tax": 0.05,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 171.479,
+                "price": 8.747,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 161.011,
+                "price": 9.3157,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 156.969,
+                "price": 9.5556,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 165.395,
+                "price": 9.0688,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-04",
+                "type": "buy",
+                "quantity": 166.393,
+                "price": 9.0144,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 164.6,
+                "price": 9.1126,
+                "tax": 0.07,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF754K01LB7",
+        "Folio": "91022385935",
+        "SchemeName": "Edelweiss Us Technology Equity Fund Of Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2025-10-03",
+                "type": "buy",
+                "quantity": 85.825,
+                "price": 34.953,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 50.212,
+                "price": 35.8463,
+                "tax": 0.09,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 52.017,
+                "price": 34.6025,
+                "tax": 0.09,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF109K015K4",
+        "Folio": "17003211",
+        "SchemeName": "Icici Prudential Multi-Asset Fund - Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 7.113,
+                "price": 773.2091,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-14",
+                "type": "buy",
+                "quantity": 2.645,
+                "price": 756.0629,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-18",
+                "type": "buy",
+                "quantity": 1.322,
+                "price": 756.5142,
+                "tax": 0.05,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-09",
+                "type": "buy",
+                "quantity": 7.086,
+                "price": 776.1513,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-07",
+                "type": "buy",
+                "quantity": 7.157,
+                "price": 768.4628,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-07",
+                "type": "buy",
+                "quantity": 7.049,
+                "price": 780.2266,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-07",
+                "type": "buy",
+                "quantity": 7.159,
+                "price": 768.1729,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 3.863,
+                "price": 776.5721,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 3.713,
+                "price": 808.0191,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 3.653,
+                "price": 821.2843,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 3.582,
+                "price": 837.54,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 3.626,
+                "price": 827.3673,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-04",
+                "type": "buy",
+                "quantity": 3.561,
+                "price": 842.3313,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 3.464,
+                "price": 866.0041,
+                "tax": 0.15,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF109K01T04",
+        "Folio": "17003211",
+        "SchemeName": "Icici Prudential Ultra Short Term Fund - Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2021-03-04",
+                "type": "buy",
+                "quantity": 438.911,
+                "price": 22.7825,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-03-04",
+                "type": "buy",
+                "quantity": 219.456,
+                "price": 22.7825,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-03-04",
+                "type": "buy",
+                "quantity": 438.911,
+                "price": 22.7825,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-06-24",
+                "type": "sell",
+                "quantity": -1097.278,
+                "price": 23.1389,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF109K016E5",
+        "Folio": "31445979",
+        "SchemeName": "Icici Prudential All Seasons Bond Fund - Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2024-07-30",
+                "type": "buy",
+                "quantity": 272.606,
+                "price": 36.6811,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 814.765,
+                "price": 36.8186,
+                "tax": 1.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 271.565,
+                "price": 36.8217,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-27",
+                "type": "buy",
+                "quantity": 54.076,
+                "price": 36.9829,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-09",
+                "type": "buy",
+                "quantity": 395.496,
+                "price": 37.9252,
+                "tax": 0.75,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-31",
+                "type": "buy",
+                "quantity": 131.469,
+                "price": 38.0298,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-03",
+                "type": "buy",
+                "quantity": 236.661,
+                "price": 38.0272,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-03",
+                "type": "buy",
+                "quantity": 130.409,
+                "price": 38.339,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-05",
+                "type": "buy",
+                "quantity": 91.228,
+                "price": 38.3636,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-18",
+                "type": "buy",
+                "quantity": 286.176,
+                "price": 38.4359,
+                "tax": 0.55,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-18",
+                "type": "buy",
+                "quantity": 52.032,
+                "price": 38.4359,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-03",
+                "type": "sell",
+                "quantity": -62.336,
+                "price": 40.0249,
+                "tax": 0,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-15",
+                "type": "sell",
+                "quantity": -620.81,
+                "price": 40.27,
+                "tax": 0,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 418.53,
+                "price": 40.6163,
+                "tax": 0.85,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-27",
+                "type": "sell",
+                "quantity": -1712.199,
+                "price": 40.8831,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF109K01Y07",
+        "Folio": "31445979",
+        "SchemeName": "Icici Prudential Equity & Debt Fund - Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2024-02-20",
+                "type": "buy",
+                "quantity": 0.549,
+                "price": 364.29,
+                "tax": 0.01,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-04-26",
+                "type": "sell",
+                "quantity": -0.384,
+                "price": 373.67,
+                "tax": 0.0,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-04-26",
+                "type": "sell",
+                "quantity": -0.165,
+                "price": 377.44,
+                "tax": 0.0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF109K01S39",
+        "Folio": "31445979",
+        "SchemeName": "Icici Prudential Regular Savings Fund - Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2024-09-27",
+                "type": "buy",
+                "quantity": 63.139,
+                "price": 79.1859,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-03",
+                "type": "buy",
+                "quantity": 63.429,
+                "price": 78.8244,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-04",
+                "type": "buy",
+                "quantity": 50.831,
+                "price": 78.6881,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "buy",
+                "quantity": 63.739,
+                "price": 78.4413,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-07",
+                "type": "buy",
+                "quantity": 114.326,
+                "price": 78.718,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-20",
+                "type": "buy",
+                "quantity": 151.079,
+                "price": 79.4247,
+                "tax": 0.6,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-02",
+                "type": "buy",
+                "quantity": 311.817,
+                "price": 80.1712,
+                "tax": 1.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-06",
+                "type": "buy",
+                "quantity": 122.961,
+                "price": 81.3225,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-22",
+                "type": "buy",
+                "quantity": 103.305,
+                "price": 82.2769,
+                "tax": 0.42,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-27",
+                "type": "buy",
+                "quantity": 200.104,
+                "price": 82.473,
+                "tax": 0.83,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-27",
+                "type": "buy",
+                "quantity": 6.062,
+                "price": 82.473,
+                "tax": 0.02,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-03",
+                "type": "sell",
+                "quantity": -6.055,
+                "price": 82.4122,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF174K01LF9",
+        "Folio": "14826898",
+        "SchemeName": "Kotak Large & Midcap Fund - Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 28.737,
+                "price": 382.766,
+                "tax": 0.55,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-18",
+                "type": "buy",
+                "quantity": 13.597,
+                "price": 367.714,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-09",
+                "type": "buy",
+                "quantity": 27.934,
+                "price": 393.763,
+                "tax": 0.55,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-07",
+                "type": "buy",
+                "quantity": 29.077,
+                "price": 378.292,
+                "tax": 0.55,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-07",
+                "type": "buy",
+                "quantity": 30.734,
+                "price": 357.896,
+                "tax": 0.55,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-07",
+                "type": "buy",
+                "quantity": 32.305,
+                "price": 340.487,
+                "tax": 0.55,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 8.692,
+                "price": 345.115,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 8.175,
+                "price": 366.951,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 7.846,
+                "price": 382.333,
+                "tax": 0.15,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF174K01LT0",
+        "Folio": "14826898",
+        "SchemeName": "Kotak Midcap Fund- Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2024-06-07",
+                "type": "buy",
+                "quantity": 18.279,
+                "price": 136.764,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-03",
+                "type": "buy",
+                "quantity": 13.484,
+                "price": 148.321,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-08",
+                "type": "buy",
+                "quantity": 16.835,
+                "price": 148.494,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 13.895,
+                "price": 143.926,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 17.066,
+                "price": 146.481,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "buy",
+                "quantity": 12.945,
+                "price": 154.487,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "buy",
+                "quantity": 16.402,
+                "price": 152.416,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-04",
+                "type": "buy",
+                "quantity": 13.103,
+                "price": 152.631,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-07",
+                "type": "buy",
+                "quantity": 16.665,
+                "price": 150.005,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "buy",
+                "quantity": 36.926,
+                "price": 148.941,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-18",
+                "type": "buy",
+                "quantity": 40.872,
+                "price": 146.791,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-04",
+                "type": "buy",
+                "quantity": 35.19,
+                "price": 156.288,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-06",
+                "type": "buy",
+                "quantity": 35.97,
+                "price": 152.899,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-04",
+                "type": "buy",
+                "quantity": 38.972,
+                "price": 141.12,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-04",
+                "type": "buy",
+                "quantity": 43.368,
+                "price": 126.814,
+                "tax": 0.27,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 22.806,
+                "price": 131.54,
+                "tax": 0.15,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF174K01LN3",
+        "Folio": "16941056",
+        "SchemeName": "Kotak Multi Asset Omni Fof Dir - Growth",
+        "Transactions": [
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 50.068,
+                "price": 249.649,
+                "tax": 0.62,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 31.432,
+                "price": 254.506,
+                "tax": 0.4,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-05",
+                "type": "buy",
+                "quantity": 20.002,
+                "price": 249.957,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-07",
+                "type": "buy",
+                "quantity": 48.128,
+                "price": 249.324,
+                "tax": 0.6,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-08",
+                "type": "buy",
+                "quantity": 39.247,
+                "price": 254.781,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 34.246,
+                "price": 262.794,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-23",
+                "type": "buy",
+                "quantity": 18.626,
+                "price": 268.429,
+                "tax": 0.25,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF769K01BI1",
+        "Folio": "79938853775",
+        "SchemeName": "Mirae Asset Large And Midcap Fund",
+        "Transactions": [
+            {
+                "date": "2021-04-12",
+                "type": "buy",
+                "quantity": 29.714,
+                "price": 84.13,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-05-03",
+                "type": "buy",
+                "quantity": 28.958,
+                "price": 86.327,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-06-01",
+                "type": "buy",
+                "quantity": 27.184,
+                "price": 91.963,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-07-01",
+                "type": "buy",
+                "quantity": 26.197,
+                "price": 95.428,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-08-02",
+                "type": "buy",
+                "quantity": 24.951,
+                "price": 100.191,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-09-01",
+                "type": "buy",
+                "quantity": 23.907,
+                "price": 104.565,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-10-01",
+                "type": "buy",
+                "quantity": 23.349,
+                "price": 107.064,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-11-01",
+                "type": "buy",
+                "quantity": 22.869,
+                "price": 109.311,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-01",
+                "type": "buy",
+                "quantity": 23.594,
+                "price": 105.955,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-03",
+                "type": "buy",
+                "quantity": 23.047,
+                "price": 108.469,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-02-01",
+                "type": "buy",
+                "quantity": 23.263,
+                "price": 107.46,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-03-02",
+                "type": "buy",
+                "quantity": 24.979,
+                "price": 100.081,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-04-01",
+                "type": "buy",
+                "quantity": 23.493,
+                "price": 106.409,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-05-02",
+                "type": "buy",
+                "quantity": 24.45,
+                "price": 102.243,
+                "tax": 0.12,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF769K01AX2",
+        "Folio": "79938853775",
+        "SchemeName": "Mirae Asset Large Cap Fund - Dir",
+        "Transactions": [
+            {
+                "date": "2021-06-24",
+                "type": "buy",
+                "quantity": 259.293,
+                "price": 77.129,
+                "tax": 1.0,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-08-02",
+                "type": "buy",
+                "quantity": 24.973,
+                "price": 80.082,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-09-01",
+                "type": "buy",
+                "quantity": 23.622,
+                "price": 84.661,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-10-01",
+                "type": "buy",
+                "quantity": 23.065,
+                "price": 86.707,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-11-01",
+                "type": "buy",
+                "quantity": 22.756,
+                "price": 87.885,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-01",
+                "type": "buy",
+                "quantity": 23.499,
+                "price": 85.105,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-20",
+                "type": "buy",
+                "quantity": 41.776,
+                "price": 83.776,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-03",
+                "type": "buy",
+                "quantity": 22.958,
+                "price": 87.111,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-02-01",
+                "type": "buy",
+                "quantity": 22.948,
+                "price": 87.15,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-03-02",
+                "type": "buy",
+                "quantity": 24.773,
+                "price": 80.728,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-04-01",
+                "type": "buy",
+                "quantity": 23.048,
+                "price": 86.772,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-05-02",
+                "type": "buy",
+                "quantity": 24.134,
+                "price": 82.868,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "sell",
+                "quantity": -116.416,
+                "price": 120.26,
+                "tax": 0.14,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-02",
+                "type": "sell",
+                "quantity": -114.148,
+                "price": 122.649,
+                "tax": 0.14,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-01",
+                "type": "sell",
+                "quantity": -116.379,
+                "price": 120.298,
+                "tax": 0.14,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-03",
+                "type": "sell",
+                "quantity": -119.89,
+                "price": 116.775,
+                "tax": 0.14,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-17",
+                "type": "sell",
+                "quantity": -70.012,
+                "price": 112.116,
+                "tax": 0.08,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF247L01999",
+        "Folio": "91028685163",
+        "SchemeName": "Motilal Oswal Large And Midcap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-05-06",
+                "type": "buy",
+                "quantity": 103.382,
+                "price": 29.017,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-02",
+                "type": "sell",
+                "quantity": -103.382,
+                "price": 34.4285,
+                "tax": 0.04,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF247L01445",
+        "Folio": "91028685163",
+        "SchemeName": "Motilal Oswal Midcap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-09-04",
+                "type": "buy",
+                "quantity": 30.343,
+                "price": 117.295,
+                "tax": 0.18,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-09",
+                "type": "sell",
+                "quantity": -30.343,
+                "price": 127.6532,
+                "tax": 0.04,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 23.579,
+                "price": 118.7434,
+                "tax": 0.14,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 23.826,
+                "price": 117.5128,
+                "tax": 0.14,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF247L01718",
+        "Folio": "91028685163",
+        "SchemeName": "Motilal Oswal Nasdaq 100 Fund Of Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2021-07-06",
+                "type": "buy",
+                "quantity": 85.863,
+                "price": 23.2917,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-08-02",
+                "type": "buy",
+                "quantity": 84.89,
+                "price": 23.5588,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-09-01",
+                "type": "buy",
+                "quantity": 82.677,
+                "price": 24.1894,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-10-01",
+                "type": "buy",
+                "quantity": 86.713,
+                "price": 23.0635,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-11-01",
+                "type": "buy",
+                "quantity": 79.866,
+                "price": 25.0407,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2021-12-01",
+                "type": "buy",
+                "quantity": 79.321,
+                "price": 25.2129,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-01-03",
+                "type": "buy",
+                "quantity": 77.959,
+                "price": 25.6533,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-02-01",
+                "type": "buy",
+                "quantity": 83.197,
+                "price": 24.038,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2022-03-02",
+                "type": "buy",
+                "quantity": 89.202,
+                "price": 22.4199,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 59.981,
+                "price": 36.6767,
+                "tax": 0.11,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-09",
+                "type": "buy",
+                "quantity": 56.394,
+                "price": 39.0093,
+                "tax": 0.11,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF247L01AV1",
+        "Folio": "91028685163",
+        "SchemeName": "Motilal Oswal Nifty 200 Momentum 30 Index Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 178.881,
+                "price": 17.3291,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-13",
+                "type": "buy",
+                "quantity": 182.282,
+                "price": 16.4572,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-13",
+                "type": "buy",
+                "quantity": 60.822,
+                "price": 16.4405,
+                "tax": 0.05,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-04",
+                "type": "sell",
+                "quantity": -421.985,
+                "price": 17.4478,
+                "tax": 0.07,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF247L01445",
+        "Folio": "91072217443",
+        "SchemeName": "Motilal Oswal Midcap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-09-02",
+                "type": "buy",
+                "quantity": 42.84,
+                "price": 116.7086,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-30",
+                "type": "sell",
+                "quantity": -42.84,
+                "price": 112.9262,
+                "tax": 0.05,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF204KB16Y4",
+        "Folio": "477332344106",
+        "SchemeName": "Nippon India Multi - Asset Omni Fof - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 696.786,
+                "price": 22.2439,
+                "tax": 0.77,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 353.739,
+                "price": 22.6144,
+                "tax": 0.4,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-05",
+                "type": "buy",
+                "quantity": 223.854,
+                "price": 22.3349,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-07",
+                "type": "buy",
+                "quantity": 539.253,
+                "price": 22.2519,
+                "tax": 0.6,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-08",
+                "type": "buy",
+                "quantity": 441.125,
+                "price": 22.6682,
+                "tax": 0.5,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 258.308,
+                "price": 23.2269,
+                "tax": 0.3,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-23",
+                "type": "buy",
+                "quantity": 211.989,
+                "price": 23.585,
+                "tax": 0.25,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF204K01K15",
+        "Folio": "477332344106",
+        "SchemeName": "Nippon India Small Cap Fund - Dir Growth Growth",
+        "Transactions": [
+            {
+                "date": "2024-04-26",
+                "type": "buy",
+                "quantity": 20.605,
+                "price": 169.8509,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-04-29",
+                "type": "sell",
+                "quantity": -20.605,
+                "price": 168.8445,
+                "tax": 0.03,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF204K01YH3",
+        "Folio": "477332344106",
+        "SchemeName": "Nippon India Ultra Short Duration Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-07-29",
+                "type": "buy",
+                "quantity": 4.835,
+                "price": 4135.9889,
+                "tax": 1.0,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "sell",
+                "quantity": -4.835,
+                "price": 4141.5531,
+                "tax": 0,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF204K01K15",
+        "Folio": "499340114252",
+        "SchemeName": "Nippon India Small Cap Fund - Dir Growth Growth",
+        "Transactions": [
+            {
+                "date": "2024-06-07",
+                "type": "buy",
+                "quantity": 11.22,
+                "price": 178.2514,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-03",
+                "type": "buy",
+                "quantity": 12.883,
+                "price": 194.0379,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-08",
+                "type": "buy",
+                "quantity": 10.219,
+                "price": 195.7025,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 13.134,
+                "price": 190.3295,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 10.313,
+                "price": 193.9231,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "buy",
+                "quantity": 12.461,
+                "price": 200.6112,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "buy",
+                "quantity": 10.05,
+                "price": 199.0,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-04",
+                "type": "buy",
+                "quantity": 12.589,
+                "price": 198.5774,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-07",
+                "type": "buy",
+                "quantity": 10.326,
+                "price": 193.6749,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "buy",
+                "quantity": 17.884,
+                "price": 195.6998,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-04",
+                "type": "buy",
+                "quantity": 17.505,
+                "price": 199.9368,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-06",
+                "type": "buy",
+                "quantity": 18.27,
+                "price": 191.5597,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-04",
+                "type": "buy",
+                "quantity": 19.866,
+                "price": 176.1747,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-04",
+                "type": "buy",
+                "quantity": 22.331,
+                "price": 156.7257,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 8.613,
+                "price": 174.1537,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 8.025,
+                "price": 186.9183,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 7.718,
+                "price": 194.3456,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 7.927,
+                "price": 189.2208,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-04",
+                "type": "buy",
+                "quantity": 7.961,
+                "price": 188.4171,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 7.924,
+                "price": 189.2893,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 8.301,
+                "price": 192.7484,
+                "tax": 0.08,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 8.559,
+                "price": 186.9294,
+                "tax": 0.08,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF879O01027",
+        "Folio": "14994512",
+        "SchemeName": "Parag Parikh Flexi Cap Fund - Dir",
+        "Transactions": [
+            {
+                "date": "2024-05-06",
+                "type": "buy",
+                "quantity": 38.577,
+                "price": 77.7623,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-06-07",
+                "type": "buy",
+                "quantity": 62.681,
+                "price": 79.7653,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-03",
+                "type": "buy",
+                "quantity": 48.024,
+                "price": 83.2879,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-08",
+                "type": "buy",
+                "quantity": 59.536,
+                "price": 83.9784,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 48.631,
+                "price": 82.2479,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 59.936,
+                "price": 83.4186,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "buy",
+                "quantity": 46.287,
+                "price": 86.4139,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "buy",
+                "quantity": 58.784,
+                "price": 85.0535,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-04",
+                "type": "buy",
+                "quantity": 45.962,
+                "price": 87.0233,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-07",
+                "type": "buy",
+                "quantity": 58.153,
+                "price": 85.9761,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-07",
+                "type": "buy",
+                "quantity": 103.597,
+                "price": 86.8705,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-18",
+                "type": "buy",
+                "quantity": 58.652,
+                "price": 85.2443,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-09",
+                "type": "buy",
+                "quantity": 101.348,
+                "price": 88.7982,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-07",
+                "type": "buy",
+                "quantity": 103.095,
+                "price": 87.2939,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-07",
+                "type": "buy",
+                "quantity": 103.163,
+                "price": 87.236,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-07",
+                "type": "buy",
+                "quantity": 107.372,
+                "price": 83.8166,
+                "tax": 0.45,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-04-04",
+                "type": "buy",
+                "quantity": 35.876,
+                "price": 83.6171,
+                "tax": 0.15,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 45.421,
+                "price": 88.0615,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 44.495,
+                "price": 89.8926,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 43.189,
+                "price": 92.612,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 43.63,
+                "price": 91.6751,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-04",
+                "type": "buy",
+                "quantity": 43.249,
+                "price": 92.4828,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 43.005,
+                "price": 93.0072,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 42.626,
+                "price": 93.8341,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 42.127,
+                "price": 94.946,
+                "tax": 0.2,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF966L01911",
+        "Folio": "51068655665",
+        "SchemeName": "Quant Flexi Cap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-06-07",
+                "type": "buy",
+                "quantity": 35.34,
+                "price": 113.1793,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-03",
+                "type": "buy",
+                "quantity": 42.283,
+                "price": 118.2458,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-08",
+                "type": "buy",
+                "quantity": 33.536,
+                "price": 119.2696,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 42.723,
+                "price": 117.028,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 33.777,
+                "price": 118.419,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "buy",
+                "quantity": 41.467,
+                "price": 120.5728,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "buy",
+                "quantity": 33.611,
+                "price": 119.0013,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-03",
+                "type": "buy",
+                "quantity": 42.373,
+                "price": 117.9945,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-07",
+                "type": "buy",
+                "quantity": 34.409,
+                "price": 116.244,
+                "tax": 0.2,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-11",
+                "type": "sell",
+                "quantity": -339.519,
+                "price": 109.5251,
+                "tax": 0.37,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF966L01689",
+        "Folio": "51068655665",
+        "SchemeName": "Quant Small Cap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-05-06",
+                "type": "buy",
+                "quantity": 18.854,
+                "price": 265.1833,
+                "tax": 0.25,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-11",
+                "type": "sell",
+                "quantity": -18.854,
+                "price": 284.1317,
+                "tax": 0.05,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF200K01T51",
+        "Folio": "38902400",
+        "SchemeName": "Sbi Small Cap Fund Dir Growth",
+        "Transactions": [
+            {
+                "date": "2024-06-07",
+                "type": "buy",
+                "quantity": 13.187,
+                "price": 189.5698,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-03",
+                "type": "buy",
+                "quantity": 9.856,
+                "price": 202.9049,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-07-08",
+                "type": "buy",
+                "quantity": 12.257,
+                "price": 203.9505,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-05",
+                "type": "buy",
+                "quantity": 10.021,
+                "price": 199.5619,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-08-07",
+                "type": "buy",
+                "quantity": 12.375,
+                "price": 202.0034,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "buy",
+                "quantity": 9.561,
+                "price": 209.171,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "buy",
+                "quantity": 11.978,
+                "price": 208.709,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-04",
+                "type": "buy",
+                "quantity": 9.494,
+                "price": 210.645,
+                "tax": 0.1,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-10-07",
+                "type": "buy",
+                "quantity": 12.139,
+                "price": 205.9307,
+                "tax": 0.12,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "buy",
+                "quantity": 17.141,
+                "price": 204.1821,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2024-12-04",
+                "type": "buy",
+                "quantity": 16.917,
+                "price": 206.8799,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-01-06",
+                "type": "buy",
+                "quantity": 17.505,
+                "price": 199.9325,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-02-04",
+                "type": "buy",
+                "quantity": 18.642,
+                "price": 187.7402,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-03-04",
+                "type": "buy",
+                "quantity": 20.905,
+                "price": 167.4144,
+                "tax": 0.17,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-05-05",
+                "type": "buy",
+                "quantity": 8.166,
+                "price": 183.67,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-06-04",
+                "type": "buy",
+                "quantity": 7.759,
+                "price": 193.3241,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-07-04",
+                "type": "buy",
+                "quantity": 7.474,
+                "price": 200.6762,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-08-04",
+                "type": "buy",
+                "quantity": 7.666,
+                "price": 195.6536,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-09-04",
+                "type": "buy",
+                "quantity": 7.587,
+                "price": 197.6887,
+                "tax": 0.07,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-10-06",
+                "type": "buy",
+                "quantity": 7.631,
+                "price": 196.5483,
+                "tax": 0.07,
+                "source": "eCas"
+            }
+        ]
+    },
+    {
+        "ISIN": "INF205K013T3",
+        "Folio": "31038317235",
+        "SchemeName": "Invesco India Small Cap Fund - Dir Growth",
+        "Transactions": [
+            {
+                "date": "2025-11-04",
+                "type": "buy",
+                "quantity": 39.772,
+                "price": 47.77,
+                "tax": 0.09,
+                "source": "eCas"
+            },
+            {
+                "date": "2025-12-04",
+                "type": "buy",
+                "quantity": 40.527,
+                "price": 46.88,
+                "tax": 0.09,
+                "source": "eCas"
+            }
+        ]
+    }
+]

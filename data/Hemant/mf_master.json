@@ -1,0 +1,1843 @@
+{
+  "INF846K01X06": {
+    "isin": "INF846K01X06",
+    "scheme_name": "Axis Global Equity Alpha Fund Of Fund Dir Growth",
+    "last_txn_date": "2025-11-24",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF205K013T3": {
+    "isin": "INF205K013T3",
+    "scheme_name": "Invesco India Small Cap Fund - Dir Growth",
+    "last_txn_date": "2025-10-23",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF843K01AO4": {
+    "isin": "INF843K01AO4",
+    "scheme_name": "Edelweiss Mid Cap Fund - Dir Growth",
+    "last_txn_date": "2025-10-06",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 90.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Midcap"
+    ]
+  },
+  "INF879O01027": {
+    "isin": "INF879O01027",
+    "scheme_name": "Parag Parikh Flexi Cap Fund - Dir",
+    "last_txn_date": "2025-09-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 730.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF966L01911": {
+    "isin": "INF966L01911",
+    "scheme_name": "Quant Flexi Cap Fund - Dir Growth",
+    "last_txn_date": "2025-09-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 15.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF966L01887": {
+    "isin": "INF966L01887",
+    "scheme_name": "Quant Mid Cap Fund - Dir",
+    "last_txn_date": "2025-09-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 90.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Midcap"
+    ]
+  },
+  "INF247L01445": {
+    "isin": "INF247L01445",
+    "scheme_name": "Motilal Oswal Midcap Fund - Dir Growth",
+    "last_txn_date": "2025-09-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Midcap"
+    ]
+  },
+  "INF174K01LT0": {
+    "isin": "INF174K01LT0",
+    "scheme_name": "Kotak Midcap Fund- Dir - Growth Test Change",
+    "last_txn_date": "2025-09-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Midcap"
+    ]
+  },
+  "INF754K01QD2": {
+    "isin": "INF754K01QD2",
+    "scheme_name": "Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Dir Growth",
+    "last_txn_date": "2025-09-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 30.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Midcap"
+    ]
+  },
+  "INF769K01AX2": {
+    "isin": "INF769K01AX2",
+    "scheme_name": "Mirae Asset Large Cap Fund - Dir",
+    "last_txn_date": "2025-08-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Largecap"
+    ]
+  },
+  "INF200K01RJ1": {
+    "isin": "INF200K01RJ1",
+    "scheme_name": "Sbi Focused Fund - Dir - Growth",
+    "last_txn_date": "2025-08-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 90.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF200K01RP8": {
+    "isin": "INF200K01RP8",
+    "scheme_name": "SBI Gold Fund - Dir - Growth",
+    "last_txn_date": "2025-08-18",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 15.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Commodities"
+    ]
+  },
+  "INF754K01LB7": {
+    "isin": "INF754K01LB7",
+    "scheme_name": "Edelweiss Us Technology Equity FoF - Dir G",
+    "last_txn_date": "2025-08-18",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 90.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF760K01EI4": {
+    "isin": "INF760K01EI4",
+    "scheme_name": "Canara Robeco Large And Mid Cap Fund - Dir G",
+    "last_txn_date": "2025-08-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Multicap"
+    ]
+  },
+  "INF174K01LN3": {
+    "isin": "INF174K01LN3",
+    "scheme_name": "Kotak Multi Asset Omni FoF - Dir",
+    "last_txn_date": "2025-08-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF204KB16Y4": {
+    "isin": "INF204KB16Y4",
+    "scheme_name": "Nippon India Multi - Asset Omni FoF - Dir",
+    "last_txn_date": "2025-08-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF109KC1Y15": {
+    "isin": "INF109KC1Y15",
+    "scheme_name": "ICICI Prudential Passive Multi-Asset FoF - Dir",
+    "last_txn_date": "2025-08-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF769K01BI1": {
+    "isin": "INF769K01BI1",
+    "scheme_name": "Mirae Asset Large And Midcap Fund",
+    "last_txn_date": "2025-07-23",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Multicap"
+    ]
+  },
+  "INF109K01Z71": {
+    "isin": "INF109K01Z71",
+    "scheme_name": "ICICI Prudential Us Bluechip Equity Fund - Dir - Growth",
+    "last_txn_date": "2025-06-27",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 30.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF109KC1U50": {
+    "isin": "INF109KC1U50",
+    "scheme_name": "ICICI Prudential Nasdaq 100 Index Fund - Dir - Growth",
+    "last_txn_date": "2025-06-27",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF109K01R14": {
+    "isin": "INF109K01R14",
+    "scheme_name": "ICICI Prudential Money Market Fund - Dir - Growth",
+    "last_txn_date": "2025-06-23",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF754K01TN5": {
+    "isin": "INF754K01TN5",
+    "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund - Dir Growth",
+    "last_txn_date": "2025-06-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 0.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Multicap"
+    ]
+  },
+  "INF879O01175": {
+    "isin": "INF879O01175",
+    "scheme_name": "Parag Parikh Conservative Hybrid Fund - Dir Growth",
+    "last_txn_date": "2025-05-23",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF109K01X16": {
+    "isin": "INF109K01X16",
+    "scheme_name": "ICICI Prudential Asset Allocator Fund (Fof) - Dir - Growth",
+    "last_txn_date": "2025-05-21",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF109K015K4": {
+    "isin": "INF109K015K4",
+    "scheme_name": "ICICI Prudential Multi-Asset Fund - Dir - Growth",
+    "last_txn_date": "2025-04-29",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Hybrid"
+    ]
+  },
+  "INF109K016E5": {
+    "isin": "INF109K016E5",
+    "scheme_name": "ICICI Prudential All Seasons Bond Fund - Dir - Growth",
+    "last_txn_date": "2025-04-07",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 30.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF760K01FR2": {
+    "isin": "INF760K01FR2",
+    "scheme_name": "Canara Robeco Large Cap Fund - Dir Growth",
+    "last_txn_date": "2025-03-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Largecap"
+    ]
+  },
+  "INF109KC1P81": {
+    "isin": "INF109KC1P81",
+    "scheme_name": "ICICI Prudential Nifty 100 Low Volatility 30 Etf Fof Dir Growth",
+    "last_txn_date": "2025-01-15",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 0.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Largecap"
+    ]
+  },
+  "INF247L01718": {
+    "isin": "INF247L01718",
+    "scheme_name": "Motilal Oswal Nasdaq 100 FOF - Dir",
+    "last_txn_date": "2024-12-10",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 15.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF247L01AG2": {
+    "isin": "INF247L01AG2",
+    "scheme_name": "Motilal Oswal S&P 500 Index Fund - Dir",
+    "last_txn_date": "2024-12-10",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 7.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF209KB18C5": {
+    "isin": "INF209KB18C5",
+    "scheme_name": "Aditya Birla Sun Life Nasdaq 100 Fof Dir Growth",
+    "last_txn_date": "2024-12-09",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 15.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF204KC1DG5": {
+    "isin": "INF204KC1DG5",
+    "scheme_name": "Nippon India Nifty 500 Momentum 50 Index Fund - Dir Growth",
+    "last_txn_date": "2024-12-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 0.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF194KB1HA2": {
+    "isin": "INF194KB1HA2",
+    "scheme_name": "Bandhan Nifty Alpha 50 Index Fund-Dir-Growth",
+    "last_txn_date": "2024-12-04",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 0.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF247L01AV1": {
+    "isin": "INF247L01AV1",
+    "scheme_name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund - Dir Growth",
+    "last_txn_date": "2024-12-04",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 0.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Largecap"
+    ]
+  },
+  "INF277K01PR6": {
+    "isin": "INF277K01PR6",
+    "scheme_name": "Tata Money Market Fund Dir - Growth",
+    "last_txn_date": "2024-10-28",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF174K01LF9": {
+    "isin": "INF174K01LF9",
+    "scheme_name": "Kotak Large & Midcap Fund - Dir - Growth",
+    "last_txn_date": "2024-10-10",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Multicap"
+    ]
+  },
+  "INF200K01RA0": {
+    "isin": "INF200K01RA0",
+    "scheme_name": "SBI Contra Fund - Dir - Growth",
+    "last_txn_date": "2024-09-26",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 90.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF109K015A5": {
+    "isin": "INF109K015A5",
+    "scheme_name": "ICICI Prudential Medium Term Bond Fund - Dir",
+    "last_txn_date": "2024-08-19",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF846K01K35": {
+    "isin": "INF846K01K35",
+    "scheme_name": "Axis Small Cap Fund Dir Growth",
+    "last_txn_date": "2024-07-15",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF179K01XE6": {
+    "isin": "INF179K01XE6",
+    "scheme_name": "Hdfc Hybrid Debt Fund - Dir - Growth",
+    "last_txn_date": "2024-07-04",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF966L01689": {
+    "isin": "INF966L01689",
+    "scheme_name": "Quant Small Cap Fund - Dir Growth",
+    "last_txn_date": "2024-06-04",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF247L01999": {
+    "isin": "INF247L01999",
+    "scheme_name": "Motilal Oswal Large And Midcap Fund - Dir Growth",
+    "last_txn_date": "2024-05-08",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Multicap"
+    ]
+  },
+  "INF209K01UU3": {
+    "isin": "INF209K01UU3",
+    "scheme_name": "Aditya Birla Sun Life Money Manager Fund - Growth-Dir",
+    "last_txn_date": "2024-05-07",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF204K01K15": {
+    "isin": "INF204K01K15",
+    "scheme_name": "Nippon India Small Cap Fund - Dir Growth Growth",
+    "last_txn_date": "2024-04-29",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF109K01Y07": {
+    "isin": "INF109K01Y07",
+    "scheme_name": "Icici Prudential Equity & Debt Fund - Dir - Growth",
+    "last_txn_date": "2024-04-26",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Hybrid"
+    ]
+  },
+  "INF200K01T51": {
+    "isin": "INF200K01T51",
+    "scheme_name": "Sbi Small Cap Fund Dir Growth",
+    "last_txn_date": "2024-04-03",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF204K01YH3": {
+    "isin": "INF204K01YH3",
+    "scheme_name": "Nippon India Ultra Short Duration Fund - Dir Growth",
+    "last_txn_date": "2024-03-27",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF760K01JC6": {
+    "isin": "INF760K01JC6",
+    "scheme_name": "Canara Robeco Small Cap Fund - Dir Growth",
+    "last_txn_date": "2024-01-12",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF174K01JZ1": {
+    "isin": "INF174K01JZ1",
+    "scheme_name": "Kotak Debt Hybrid Fund - Dir - Growth",
+    "last_txn_date": "2024-01-09",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 180.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF109K01S39": {
+    "isin": "INF109K01S39",
+    "scheme_name": "ICICI Prudential Regular Savings Fund - Dir - Growth",
+    "last_txn_date": "2024-01-09",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF760K01GB4": {
+    "isin": "INF760K01GB4",
+    "scheme_name": "Canara Robeco Conservative Hybrid Fund - Dir Growth",
+    "last_txn_date": "2024-01-09",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Hybrid"
+    ]
+  },
+  "INF174KA1PD4": {
+    "isin": "INF174KA1PD4",
+    "scheme_name": "Kotak Multi Asset Allocation Fund Dir - Growth",
+    "last_txn_date": "2024-01-02",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Hybrid"
+    ]
+  },
+  "INF179KA1RQ7": {
+    "isin": "INF179KA1RQ7",
+    "scheme_name": "Hdfc Large And Mid Cap Fund - Dir Growth",
+    "last_txn_date": "2023-12-28",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Multicap"
+    ]
+  },
+  "INF174K01KT2": {
+    "isin": "INF174K01KT2",
+    "scheme_name": "Kotak Small Cap Fund - Dir - Growth",
+    "last_txn_date": "2023-12-06",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Smallcap"
+    ]
+  },
+  "INF174K01LS2": {
+    "isin": "INF174K01LS2",
+    "scheme_name": "Kotak Flexicap Fund - Dir Growth",
+    "last_txn_date": "2023-12-04",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF843K01AU1": {
+    "isin": "INF843K01AU1",
+    "scheme_name": "Edelweiss Greater China Equity Off-Shore Fund - Dir Growth",
+    "last_txn_date": "2023-11-30",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 90.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF223J01NF2": {
+    "isin": "INF223J01NF2",
+    "scheme_name": "Pgim India Global Equity Opportunities Fund - Dir - Growth",
+    "last_txn_date": "2023-11-30",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 90.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF846K01DP8": {
+    "isin": "INF846K01DP8",
+    "scheme_name": "Axis Large Cap Fund - Dir",
+    "last_txn_date": "2023-11-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Largecap"
+    ]
+  },
+  "INF200K01RD4": {
+    "isin": "INF200K01RD4",
+    "scheme_name": "SBI Dynamic Bond Fund - Dir ",
+    "last_txn_date": "2023-08-31",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 30.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF179K01WB4": {
+    "isin": "INF179K01WB4",
+    "scheme_name": "HDFC Dynamic Debt Fund - Dir",
+    "last_txn_date": "2023-08-14",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF209K01N82": {
+    "isin": "INF209K01N82",
+    "scheme_name": "Aditya Birla Sun Life Dynamic Bond Fund Growth-Dir",
+    "last_txn_date": "2023-07-27",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 90.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF109K013N3": {
+    "isin": "INF109K013N3",
+    "scheme_name": "ICICI Prudential Short Term Fund - Dir - Growth",
+    "last_txn_date": "2023-06-05",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 30.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF846K01B28": {
+    "isin": "INF846K01B28",
+    "scheme_name": "Axis Flexi Cap Fund - Dir Growth",
+    "last_txn_date": "2023-05-24",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF179KB1MF0": {
+    "isin": "INF179KB1MF0",
+    "scheme_name": "HDFC Retirement Savings Fund Equity Plan - Dir",
+    "last_txn_date": "2023-04-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 1825.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF090I01JV2": {
+    "isin": "INF090I01JV2",
+    "scheme_name": "Franklin India Liquid Fund - Super Institutional - Dir - Growth",
+    "last_txn_date": "2023-04-10",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF109K01T04": {
+    "isin": "INF109K01T04",
+    "scheme_name": "ICICI Prudential Ultra Short Term Fund - Dir - Growth",
+    "last_txn_date": "2023-03-16",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF109K01X73": {
+    "isin": "INF109K01X73",
+    "scheme_name": "ICICI Prudential Debt Management Fund (Fof) - Dir - Growth",
+    "last_txn_date": "2023-01-30",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF209K01UR9": {
+    "isin": "INF209K01UR9",
+    "scheme_name": "Aditya Birla Sun Life Savings Fund - Dir",
+    "last_txn_date": "2022-07-19",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF846K01CQ8": {
+    "isin": "INF846K01CQ8",
+    "scheme_name": "Axis Focused Fund - Dir Growth",
+    "last_txn_date": "2021-06-28",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF209K01S38": {
+    "isin": "INF209K01S38",
+    "scheme_name": "Aditya Birla Sun Life Corporate Bond Fund - Growth-Dir",
+    "last_txn_date": "2021-03-15",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF178L01AX4": {
+    "isin": "INF178L01AX4",
+    "scheme_name": "Kotak Low Duration Fund Dir Growth",
+    "last_txn_date": "2021-03-15",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF109K01P57": {
+    "isin": "INF109K01P57",
+    "scheme_name": "ICICI Prudential Floating Interest Fund - Dir - Growth",
+    "last_txn_date": "2021-03-15",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF209K01UX7": {
+    "isin": "INF209K01UX7",
+    "scheme_name": "Aditya Birla Sun Life Floating Rate Fund - Growth-Dir",
+    "last_txn_date": "2021-03-01",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF090I01JR0": {
+    "isin": "INF090I01JR0",
+    "scheme_name": "Franklin India Feeder - Franklin U S Opportunities Fund - Dir - Growth",
+    "last_txn_date": "2021-02-22",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 365.0,
+    "ltcg_days": 730,
+    "tags": [
+      "Income/Global Equity"
+    ]
+  },
+  "INF209K01XX1": {
+    "isin": "INF209K01XX1",
+    "scheme_name": "Aditya Birla Sun Life Flexi Cap Fund - Growth-Dir",
+    "last_txn_date": "2021-01-01",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 365.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Flexicap"
+    ]
+  },
+  "INF204K01XZ7": {
+    "isin": "INF204K01XZ7",
+    "scheme_name": "Nippon India Arbitrage Fund - Dir Growth Growth",
+    "last_txn_date": "2020-12-01",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 30.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Arbitrage"
+    ]
+  },
+  "INF277K017Q3": {
+    "isin": "INF277K017Q3",
+    "scheme_name": "Tata Arbitrage Fund-Dir-Growth",
+    "last_txn_date": "2020-11-24",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 30.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Arbitrage"
+    ]
+  },
+  "INF109K017L8": {
+    "isin": "INF109K017L8",
+    "scheme_name": "ICICI Prudential Long Term Bond Fund - Dir - Growth",
+    "last_txn_date": "2020-11-24",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": 0.0,
+    "ltcg_days": 99999,
+    "tags": [
+      "Income/Debt"
+    ]
+  },
+  "INF251K01OT0": {
+    "isin": "INF251K01OT0",
+    "scheme_name": "Baroda Bnp Paribas Arbitrage Fund - Dir Growth Growth",
+    "last_txn_date": "2020-11-24",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": 15.0,
+    "ltcg_days": 365,
+    "tags": [
+      "Equity/Arbitrage"
+    ]
+  },
+  "INF174K01LC6": {
+    "isin": "INF174K01LC6",
+    "scheme_name": "Kotak Equity Arbitrage Fund - Dir - Growth",
+    "last_txn_date": "2020-11-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF754K01EA4": {
+    "isin": "INF754K01EA4",
+    "scheme_name": "Edelweiss Arbitrage Fund - Dir Growth",
+    "last_txn_date": "2020-11-19",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF397L01AH3": {
+    "isin": "INF397L01AH3",
+    "scheme_name": "Lic Mf Liquid Fund",
+    "last_txn_date": "2020-11-01",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF846K01CX4": {
+    "isin": "INF846K01CX4",
+    "scheme_name": "Axis Liquid Fund - Dir Growth",
+    "last_txn_date": "2020-11-01",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF966L01820": {
+    "isin": "INF966L01820",
+    "scheme_name": "Quant Liquid Fund - Dir",
+    "last_txn_date": "2020-10-27",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF174V01044": {
+    "isin": "INF174V01044",
+    "scheme_name": "Mahindra Manulife Liquid Fund - Dir - Growth",
+    "last_txn_date": "2020-10-27",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF769K01CM1": {
+    "isin": "INF769K01CM1",
+    "scheme_name": "Mirae Asset Liquid Fund ( Formerly Mirae Asset Cash Management Fund ) - Dir",
+    "last_txn_date": "2020-10-27",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF200K01UT4": {
+    "isin": "INF200K01UT4",
+    "scheme_name": "Sbi Liquid Fund Dir Growth",
+    "last_txn_date": "2020-10-27",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF209K01VP1": {
+    "isin": "INF209K01VP1",
+    "scheme_name": "Aditya Birla Sun Life Arbitrage Fund - Growth-Dir",
+    "last_txn_date": "2020-10-27",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF209K01VA3": {
+    "isin": "INF209K01VA3",
+    "scheme_name": "Aditya Birla Sun Life Liquid Fund - Growth-Dir",
+    "last_txn_date": "2020-10-22",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF251K01NO3": {
+    "isin": "INF251K01NO3",
+    "scheme_name": "Bnp Paribas Liquid Fund - Dir Growth Growth",
+    "last_txn_date": "2020-10-22",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF754K01GM4": {
+    "isin": "INF754K01GM4",
+    "scheme_name": "Edelweiss Liquid Fund - Dir Growth",
+    "last_txn_date": "2020-10-22",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF109K01Q49": {
+    "isin": "INF109K01Q49",
+    "scheme_name": "ICICI Prudential Liquid Fund - Dir - Growth",
+    "last_txn_date": "2020-10-22",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF336L01CC8": {
+    "isin": "INF336L01CC8",
+    "scheme_name": "Hsbc Liquid Fund - Dir Growth",
+    "last_txn_date": "2020-10-18",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF955L01AL0": {
+    "isin": "INF955L01AL0",
+    "scheme_name": "Baroda Bnp Paribas Liquid Fund - Dir Growth",
+    "last_txn_date": "2020-09-21",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF174K01NE8": {
+    "isin": "INF174K01NE8",
+    "scheme_name": "Kotak Liquid Fund Dir Growth",
+    "last_txn_date": "2020-09-21",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF740K01QL4": {
+    "isin": "INF740K01QL4",
+    "scheme_name": "Dsp Liquidity Fund - Dir - Growth",
+    "last_txn_date": "2020-09-21",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF917K01QA1": {
+    "isin": "INF917K01QA1",
+    "scheme_name": "Hsbc Small Cap Fund - Dir Growth",
+    "last_txn_date": "2020-07-21",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF082J01127": {
+    "isin": "INF082J01127",
+    "scheme_name": "Quantum Liquid Fund - Dir Growth",
+    "last_txn_date": "2020-05-04",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF090I01JA6": {
+    "isin": "INF090I01JA6",
+    "scheme_name": "Franklin India Ultra Short Bond Fund Super Institutional - Dir - Growth",
+    "last_txn_date": "2020-04-17",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF740K01PL6": {
+    "isin": "INF740K01PL6",
+    "scheme_name": "Dsp Large & Mid Cap Fund - Dir - Growth",
+    "last_txn_date": "2020-03-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF917K01FZ1": {
+    "isin": "INF917K01FZ1",
+    "scheme_name": "Hsbc Midcap Fund - Dir Growth",
+    "last_txn_date": "2020-03-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01IQ4": {
+    "isin": "INF090I01IQ4",
+    "scheme_name": "Franklin India Smaller Companies Fund - Dir - Growth",
+    "last_txn_date": "2020-03-19",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01IW2": {
+    "isin": "INF090I01IW2",
+    "scheme_name": "Franklin India Focused Equity Fund - Dir - Growth",
+    "last_txn_date": "2020-03-19",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01GK1": {
+    "isin": "INF090I01GK1",
+    "scheme_name": "Franklin India Short Term Income - Retail - Dir - Growth",
+    "last_txn_date": "2020-03-19",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF090I01JI9": {
+    "isin": "INF090I01JI9",
+    "scheme_name": "Franklin India Income Opportunities Fund - Dir - Growth",
+    "last_txn_date": "2020-03-19",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF209K01WQ7": {
+    "isin": "INF209K01WQ7",
+    "scheme_name": "Aditya Birla Sun Life Pure Value Fund - Growth-Dir",
+    "last_txn_date": "2020-03-19",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01FH9": {
+    "isin": "INF090I01FH9",
+    "scheme_name": "Franklin India Prima Fund - Dir - Growth",
+    "last_txn_date": "2018-12-03",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF109K012K1": {
+    "isin": "INF109K012K1",
+    "scheme_name": "ICICI Prudential Value Discovery Fund - Dir - Growth",
+    "last_txn_date": "2018-11-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF209K01VH8": {
+    "isin": "INF209K01VH8",
+    "scheme_name": "Aditya Birla Sun Life Equity Advantage Fund - Growth-Dir",
+    "last_txn_date": "2018-11-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01HG7": {
+    "isin": "INF090I01HG7",
+    "scheme_name": "Franklin India Low Duration Fund - Dir - Growth",
+    "last_txn_date": "2018-10-08",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF109K012B0": {
+    "isin": "INF109K012B0",
+    "scheme_name": "ICICI Prudential Balanced Advantage Fund - Dir - Growth",
+    "last_txn_date": "2018-09-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 730,
+    "tags": []
+  },
+  "INF209K01YY7": {
+    "isin": "INF209K01YY7",
+    "scheme_name": "Aditya Birla Sun Life Frontline Equity Fund -Growth-Dir",
+    "last_txn_date": "2018-08-06",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF173K01EG4": {
+    "isin": "INF173K01EG4",
+    "scheme_name": "Principal Emerging Bluechip Fund - Dir Growth",
+    "last_txn_date": "2018-05-07",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01FN7": {
+    "isin": "INF090I01FN7",
+    "scheme_name": "Franklin India Bluechip Fund - Dir - Growth",
+    "last_txn_date": "2018-03-16",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF109K016L0": {
+    "isin": "INF109K016L0",
+    "scheme_name": "ICICI Prudential Bluechip Fund - Dir - Growth",
+    "last_txn_date": "2018-03-16",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01FK3": {
+    "isin": "INF090I01FK3",
+    "scheme_name": "Franklin India Flexi Cap Fund - Dir - Growth",
+    "last_txn_date": "2018-03-16",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF663L01HE0": {
+    "isin": "INF663L01HE0",
+    "scheme_name": "Pgim India Low Duration Fund - Dir - Growth",
+    "last_txn_date": "2018-01-08",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF223J01OW5": {
+    "isin": "INF223J01OW5",
+    "scheme_name": "Pgim India Short Duration Fund - Dir - Growth",
+    "last_txn_date": "2018-01-08",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF204K01323": {
+    "isin": "INF204K01323",
+    "scheme_name": "Nippon India Growth Fund - Growth Growth",
+    "last_txn_date": "2017-03-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF769K01010": {
+    "isin": "INF769K01010",
+    "scheme_name": "Mirae Asset Large Cap Fund - Regular",
+    "last_txn_date": "2017-03-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF205K01DN2": {
+    "isin": "INF205K01DN2",
+    "scheme_name": "Invesco India Multicap Fund - Regular Growth",
+    "last_txn_date": "2017-03-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF205K01MS2": {
+    "isin": "INF205K01MS2",
+    "scheme_name": "Invesco India Multicap Fund - Dir Growth",
+    "last_txn_date": "2017-03-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF109K01BH2": {
+    "isin": "INF109K01BH2",
+    "scheme_name": "ICICI Prudential Balanced Advantage Fund - Growth",
+    "last_txn_date": "2017-03-14",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 730,
+    "tags": []
+  },
+  "INF109K01BL4": {
+    "isin": "INF109K01BL4",
+    "scheme_name": "ICICI Prudential Bluechip Fund - Growth",
+    "last_txn_date": "2017-03-14",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF109K01761": {
+    "isin": "INF109K01761",
+    "scheme_name": "ICICI Prudential Multi-Asset Fund - Growth",
+    "last_txn_date": "2017-03-14",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01171": {
+    "isin": "INF090I01171",
+    "scheme_name": "Franklin India Bluechip Fund - Growth",
+    "last_txn_date": "2017-03-06",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01EW1": {
+    "isin": "INF090I01EW1",
+    "scheme_name": "Franklin India Feeder - Franklin U S Opportunities Fund - Growth",
+    "last_txn_date": "2017-03-06",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 730,
+    "tags": []
+  },
+  "INF204K01FW1": {
+    "isin": "INF204K01FW1",
+    "scheme_name": "Nippon India Equity Hybrid Fund - Growth Growth",
+    "last_txn_date": "2017-01-02",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 730,
+    "tags": []
+  },
+  "INF204K01406": {
+    "isin": "INF204K01406",
+    "scheme_name": "Nippon India Vision Fund - Growth Growth",
+    "last_txn_date": "2016-03-18",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF204K01489": {
+    "isin": "INF204K01489",
+    "scheme_name": "Nippon India Multi Cap Fund - Growth Growth",
+    "last_txn_date": "2016-01-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF204K01FQ3": {
+    "isin": "INF204K01FQ3",
+    "scheme_name": "Nippon India Credit Risk Fund - Growth Growth",
+    "last_txn_date": "2015-12-07",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF179K01BE2": {
+    "isin": "INF179K01BE2",
+    "scheme_name": "Hdfc Large Cap Fund - Regular - Growth",
+    "last_txn_date": "2015-05-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF179K01AV8": {
+    "isin": "INF179K01AV8",
+    "scheme_name": "Hdfc Prudence Fund - Regular - Growth",
+    "last_txn_date": "2015-01-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF109K01AV5": {
+    "isin": "INF109K01AV5",
+    "scheme_name": "ICICI Prudential Infrastructure Fund - Growth",
+    "last_txn_date": "2014-11-03",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF200K01362": {
+    "isin": "INF200K01362",
+    "scheme_name": "SBI Contra Fund - Regular - Growth",
+    "last_txn_date": "2013-12-23",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF200K01214": {
+    "isin": "INF200K01214",
+    "scheme_name": "Sbi Esg Exclusionary Strategy Fund Regular Growth",
+    "last_txn_date": "2013-12-23",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF204K01AE0": {
+    "isin": "INF204K01AE0",
+    "scheme_name": "Nippon India Power & Infra Fund - Growth - Growth",
+    "last_txn_date": "2013-11-11",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF179K01BB8": {
+    "isin": "INF179K01BB8",
+    "scheme_name": "Hdfc Elss Tax Saver - Regular - Growth",
+    "last_txn_date": "2010-08-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF179K01830": {
+    "isin": "INF179K01830",
+    "scheme_name": "Hdfc Balanced Advantage Fund - Regular - Growth",
+    "last_txn_date": "2009-07-30",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 730,
+    "tags": []
+  },
+  "INF204K01GB3": {
+    "isin": "INF204K01GB3",
+    "scheme_name": "Nippon India Value Fund - Growth Growth",
+    "last_txn_date": "2009-06-22",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF903J01F68": {
+    "isin": "INF903J01F68",
+    "scheme_name": "Sundaram Infrastructure Advantage Fund Regular Growth",
+    "last_txn_date": "2009-04-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF903J01116": {
+    "isin": "INF903J01116",
+    "scheme_name": "Sundaram Select Focus Fund - Regular Growth",
+    "last_txn_date": "2009-04-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01239": {
+    "isin": "INF090I01239",
+    "scheme_name": "Franklin India Flexi Cap Fund - Growth",
+    "last_txn_date": "2009-02-24",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF137A01037": {
+    "isin": "INF137A01037",
+    "scheme_name": "Jm Value Fund - (Regular) - Growth",
+    "last_txn_date": "2009-02-24",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF179K01608": {
+    "isin": "INF179K01608",
+    "scheme_name": "Hdfc Flexi Cap Fund - Regular - Growth",
+    "last_txn_date": "2008-05-20",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF903J01173": {
+    "isin": "INF903J01173",
+    "scheme_name": "Sundaram Mid Cap Fund - Regular Growth",
+    "last_txn_date": "2008-05-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF200K01271": {
+    "isin": "INF200K01271",
+    "scheme_name": "Sbi Mnc Fund - Regular - Growth",
+    "last_txn_date": "2008-04-21",
+    "is_under_ltcg": false,
+    "is_under_stcg": false,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 99999,
+    "tags": []
+  },
+  "INF740K01094": {
+    "isin": "INF740K01094",
+    "scheme_name": "Dsp Large & Mid Cap Fund - Regular - Growth",
+    "last_txn_date": "2007-12-31",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01841": {
+    "isin": "INF090I01841",
+    "scheme_name": "Franklin India Opportunities Fund - Growth",
+    "last_txn_date": "2007-12-17",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01809": {
+    "isin": "INF090I01809",
+    "scheme_name": "Franklin India Mid Cap Fund - Growth",
+    "last_txn_date": "2007-11-08",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01205": {
+    "isin": "INF090I01205",
+    "scheme_name": "Franklin India Large And Mid Cap Fund - Growth",
+    "last_txn_date": "2007-11-05",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  },
+  "INF090I01817": {
+    "isin": "INF090I01817",
+    "scheme_name": "Franklin India Aggressive Hybrid Fund - Growth",
+    "last_txn_date": "2006-01-30",
+    "is_under_ltcg": true,
+    "is_under_stcg": false,
+    "is_under_asr": true,
+    "exit_load_days": NaN,
+    "ltcg_days": 730,
+    "tags": []
+  },
+  "INF090I01155": {
+    "isin": "INF090I01155",
+    "scheme_name": "Franklin India Large Cap Fund - Idcw#",
+    "last_txn_date": "2005-10-25",
+    "is_under_ltcg": true,
+    "is_under_stcg": true,
+    "is_under_asr": false,
+    "exit_load_days": NaN,
+    "ltcg_days": 365,
+    "tags": []
+  }
+}
