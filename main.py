@@ -25,6 +25,9 @@ st.session_state["user_id"] = "Hemant"
 # if st.session_state.get("user_id"):
 #     set_cookie()
 # print(st.session_state.get("user_id"))
+import os
+st.write("CWD:", os.getcwd())
+st.write("Files here:", os.listdir("."))
 
 if not st.session_state.get("user_id"):
     pages = st.navigation([st.Page("view/login.py", title="Login", icon=":material/chart_data:")])
