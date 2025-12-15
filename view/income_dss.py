@@ -30,7 +30,8 @@ class RedemptionsDSS:
 
     def show(self):
         with st.container(horizontal=True, horizontal_alignment="distribute", vertical_alignment="bottom"):
-            st.write(f"#### Redemption Guide for {"ASR Income" if self.tax_type=="ASR" else "Capital Gains"} (FY {self.options.selected_fy})")
+            st.write(f"#### Redemption Guide for {'ASR Income' if self.tax_type=='ASR' else 'Capital Gains'} "
+                     f"(FY {self.options.selected_fy})")
             # with st.container(horizontal_alignment="right", horizontal=True):
             st.caption(f"<div style='text-align: right; font-size: 1rem; color:#279FF5; font-weight:600;"
                        f"margin:-12px 10px 12px 0;'>{self.options.selected_investor_name}</div>",
