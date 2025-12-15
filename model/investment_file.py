@@ -279,7 +279,10 @@ class InvestmentFileManager:
         """
         inv = self._find_investment(isin, folio)
 
+import streamlit as st
 def get_all_investor_names(user_id: str) -> list[str]:
+    st.write("CWD:", os.getcwd())
+    st.write("Error reading here:", os.listdir("."))
     filenames = [filename for filename in os.listdir(f"data\\{user_id}") if filename.endswith("_investments.json")]
     return [filename.replace("_investments.json", "").replace("_", " ").title() for filename in filenames]
 
