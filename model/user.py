@@ -7,11 +7,10 @@ import model.investment_file as investment_files
 class User:
     def __init__(self, id, project_folder=""):
         self.user_id = id
+        Path(f"data\\{id}").mkdir(parents=True, exist_ok=True)  # Create data dir if it doesn't already exist
         self.datafolder = Path("data") / self.user_id
         self.mf_master = MFSchemeMaster(self.user_id)   # Instantiated only once for a user
         self.investors = self.load_all_investors()
-        user_data_folder = f"data\\{id}"
-        Path(user_data_folder).mkdir(parents=True, exist_ok=True)
 
 
     def load_all_investors(self):
