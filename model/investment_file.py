@@ -283,8 +283,8 @@ import streamlit as st
 def get_all_investor_names(user_id: str) -> list[str]:
     # st.write("CWD:", os.getcwd())
     # st.write("Error reading here:", os.listdir("."))
-    BASE_DIR = Path(__file__).parent
-    datafolder = BASE_DIR / "data" / user_id
+    # BASE_DIR = Path(__file__).parent
+    datafolder = Path("data") / user_id
     filenames = [filename for filename in os.listdir(datafolder) if filename.endswith("_investments.json")]
     return [filename.replace("_investments.json", "").replace("_", " ").title() for filename in filenames]
 
