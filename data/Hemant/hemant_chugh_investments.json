@@ -3301,6 +3301,14 @@
                 "price": 9.3347,
                 "tax": 9.0,
                 "source": "eCas"
+            },
+            {
+                "date": "2025-12-12",
+                "type": "sell",
+                "quantity": -6562.391,
+                "price": 9.1431,
+                "tax": 3.0,
+                "source": "file-edit"
             }
         ]
     },
