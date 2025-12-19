@@ -3402,7 +3402,7 @@
                 "type": "sell",
                 "quantity": 16342.716,
                 "price": 19.3819,
-                "tax": 15.84,
+                "tax": 0,
                 "source": "file-edit"
             },
             {
@@ -4049,7 +4049,7 @@
                 "type": "sell",
                 "quantity": -3461.143,
                 "price": 68.6758,
-                "tax": 11.88,
+                "tax": 0,
                 "source": "file-edit"
             },
             {
@@ -5109,7 +5109,7 @@
                 "type": "sell",
                 "quantity": -5788.042,
                 "price": 15.5493,
-                "tax": 4.5,
+                "tax": 0,
                 "source": "file-edit"
             },
             {
