@@ -3398,7 +3398,7 @@
         "SchemeName": "Icici Prudential Nasdaq 100 Index Fund - Dir - Growth",
         "Transactions": [
             {
-                "date": "2023-12-17",
+                "date": "2025-12-17",
                 "type": "sell",
                 "quantity": 16342.716,
                 "price": 19.3819,
@@ -4045,7 +4045,7 @@
         "SchemeName": "Kotak Debt Hybrid Fund - Dir - Growth",
         "Transactions": [
             {
-                "date": "2023-04-05",
+                "date": "2025-04-05",
                 "type": "sell",
                 "quantity": -3461.143,
                 "price": 68.6758,
@@ -5105,7 +5105,7 @@
         "SchemeName": "Parag Parikh Conservative Hybrid Fund - Dir Growth",
         "Transactions": [
             {
-                "date": "2023-12-17",
+                "date": "2025-12-17",
                 "type": "sell",
                 "quantity": -5788.042,
                 "price": 15.5493,
