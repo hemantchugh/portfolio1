@@ -3400,7 +3400,7 @@
             {
                 "date": "2025-12-17",
                 "type": "sell",
-                "quantity": 16342.716,
+                "quantity": -16342.716,
                 "price": 19.3819,
                 "tax": 0,
                 "source": "file-edit"
