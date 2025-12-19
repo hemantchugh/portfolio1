@@ -3398,6 +3398,14 @@
         "SchemeName": "Icici Prudential Nasdaq 100 Index Fund - Dir - Growth",
         "Transactions": [
             {
+                "date": "2023-12-17",
+                "type": "sell",
+                "quantity": 16342.716,
+                "price": 19.3819,
+                "tax": 15.84,
+                "source": "file-edit"
+            },
+            {
                 "date": "2023-04-06",
                 "type": "buy",
                 "quantity": 5379.025,
@@ -4036,6 +4044,14 @@
         "Folio": "12094145",
         "SchemeName": "Kotak Debt Hybrid Fund - Dir - Growth",
         "Transactions": [
+            {
+                "date": "2023-04-05",
+                "type": "sell",
+                "quantity": -3461.143,
+                "price": 68.6758,
+                "tax": 11.88,
+                "source": "file-edit"
+            },
             {
                 "date": "2023-04-05",
                 "type": "buy",
@@ -5089,6 +5105,14 @@
         "SchemeName": "Parag Parikh Conservative Hybrid Fund - Dir Growth",
         "Transactions": [
             {
+                "date": "2023-12-17",
+                "type": "sell",
+                "quantity": -5788.042,
+                "price": 15.5493,
+                "tax": 4.5,
+                "source": "file-edit"
+            },
+            {
                 "date": "2023-04-05",
                 "type": "buy",
                 "quantity": 873.037,
@@ -6103,6 +6127,14 @@
         "Folio": "910211056561",
         "SchemeName": "Axis Global Equity Alpha Fund Of Fund Dir Growth",
         "Transactions": [
+            {
+                "date": "2025-12-17",
+                "type": "buy",
+                "quantity": 14106.728,
+                "price": 23.0375,
+                "tax": 16.25,
+                "source": "file-edit"
+            },
             {
                 "date": "2025-11-24",
                 "type": "buy",
